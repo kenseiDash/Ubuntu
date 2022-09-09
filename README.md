@@ -1,4 +1,4 @@
-# Ubuntu20-Termux
+# Ubuntu-Termux
 <h1 align="center">
     <img src="https://i.ibb.co/99qKqTb/k.png">
 </h1>
@@ -18,7 +18,7 @@ pkg install proot -y
 
 pkg install tar -y
 
-wget https://raw.githubusercontent.com/kenseiDash/Ubuntu20/main/ubuntu -O ubuntu
+wget https://raw.githubusercontent.com/kenseiDash/Ubuntu/main/ubuntu -O ubuntu
 
 chmod +x ubuntu
 

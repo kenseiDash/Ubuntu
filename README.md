@@ -44,4 +44,4 @@ sudo apt install build-essential -y
 
 ## Startup
 
-bash ubuntu.sh
+bash start-ubuntu.sh

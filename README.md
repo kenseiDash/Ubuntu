@@ -44,4 +44,4 @@ sudo apt install build-essential -y
 
 ## Startup
 
-bash start-ubuntu.sh
+bash start-ubuntu20.sh
